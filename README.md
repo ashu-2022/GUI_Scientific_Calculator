@@ -3,12 +3,10 @@
 This is a scientific calculator which I made using Python GUI library Tkinter.
 In this we have mainly 2 screen :
 1. standard view
-   
-![Standard View UI](https://github.com/ashu-2022/GUI_Scientific_Calculator/blob/main/assets/GUI%20Scientific%20Calculator%20-%20Standard_View.png){:height="300px" width="200px"}
+<img src="https://github.com/ashu-2022/GUI_Scientific_Calculator/blob/main/assets/GUI%20Scientific%20Calculator%20-%20Standard_View.png" width="200" height="300" alt="Standard View UI">
 
-3. scientific view
-   
-![Scientific View UI](https://github.com/ashu-2022/GUI_Scientific_Calculator/blob/main/assets/GUI%20Scientific%20Calculator%20-%20Scientific_View.png){:height="300px" width="400px"}
+2. scientific view
+<img src="https://github.com/ashu-2022/GUI_Scientific_Calculator/blob/main/assets/GUI%20Scientific%20Calculator%20-%20Scientific_View.png" width="400" height="300" alt="Scientific View UI">
 
 **Preview**- https://youtu.be/o45vk0aaPNQ
 
