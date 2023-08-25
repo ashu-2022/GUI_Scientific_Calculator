@@ -12,6 +12,6 @@ In this we have mainly 2 screen :
 
 **Preview**- https://youtu.be/o45vk0aaPNQ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o45vk0aaPNQ?si=Gq7cUEgXuHOuawvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Preview Video](https://img.youtube.com/vi/o45vk0aaPNQ/0.jpg)](https://www.youtube.com/watch?v=o45vk0aaPNQ)
 
 ### A 🌟 on this repo would be appreciated!
